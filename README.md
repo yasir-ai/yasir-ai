@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @yasir-ai
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h1>Hi, I'm Yasir, an <a href="https://www.linkedin.com/in/yasir-ai/">IT Professional</a>☺</h1>
 
-<!---
-yasir-ai/yasir-ai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h2> ⭐ Featured Projects:</h2>
+
+- 
+
+<br>
+
+<h2>🤳Connect with me:</h2>
+
+[<img align="left" alt="Yasir | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/yasir-ai/
