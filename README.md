@@ -1,13 +1,83 @@
-<h1>Hi, I'm Yasir, an <a href="https://www.linkedin.com/in/yasir-ai/">IT Professional</a> ☺</h1>
+# Hi, I'm Yasir! Glad to have you in my research lab.
 
-<h2> ⭐ Featured Projects:</h2>
+First of all, I must state: this isn’t a portfolio.  
+This is where I test ideas, break things on purpose, and solve problems like they’re real - because they eventually will be.
 
-- 
 
-<br>
 
-<h2>🤳Connect with me:</h2>
+## 🔬 What This Is
 
-[<img align="left" alt="Yasir | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+You’re looking at my lab. Not coursework. Not fake projects. Just real systems, simulated attacks, broken configs, and cold documentation.
 
-[linkedin]: https://www.linkedin.com/in/yasir-ai/
+I love making live builds, ticket resolutions, network configs, and defense-focused workflows.
+
+The goal is to reflect real ops thinking — systems, security, automation, and speed.
+
+Everything here has a *why*, a *how*, and a *fix*.
+
+
+
+## Key Projects
+  ### 💻⚙️ IT & Systems
+  
+  - **Azure Active Directory Lab:**  Deployed and hardened multi-user AD. Simulated permissions abuse. Logged escalation paths.
+    - Preliminary Setup for Active Directory and Network Traffic Analysis with Azure VMs
+    - Active Directory Deployment and Configuration
+    - Active Directory: User Generation
+    - Network Security Groups (NSGs) and Inspecting Network Protocols (Video in progress)
+    - Basic DNS Configuration & Testing
+      
+- **oSTicket + Help Desk Workflow:** Built real ticketing flow. Documented SLAs. Resolved 100+ test tickets. Simulated escalations and time-to-close.
+  - osTicket: Prerequisites and Installation
+  - osTicket: Post-Installation Configuration
+  - osTicket: Ticket Lifecycle & SLAs
+    
+- **Jira Service Management:** Wrote scripts for user creation, group permissions, and system cleanup. Reduced manual load by 70%.
+  - Jira Service Management: Ticket Lifecycle and Resolution
+  - Jira Service Management: Configuration, Workflows and Automation
+ 
+- **Spiceworks**
+  - Knowledge Base Development for IT Troubleshooting
+
+### ☠💻🔑🛡 Cybersecurity
+
+- **Assets, Risks, Audit, Mitigation Strategies and Impact Analysis**
+  - Internal Security Audit - Botium Toys
+    
+- **Vulnerability Management Program Implementation**
+  - Start to finish Vulnerability Management Program creation using Tenable Vulnerability Management
+    
+- **Security Operations and Incident Response / Cloud Cybersecurity Project**
+  - Creating and securing a SOC/Honeynet in Azure with live attack traffic
+ 
+- **Algorithmic Automated UAM**
+  - Simple Python Algorithm for User Access Management
+  
+- **SQL-Driven Security Investigation**
+  - Analyzing Employee Login Patterns and Machine Access
+
+### ☁️ᯤ Networking
+
+- **CCNA: Configuring Static Routes in Packet Tracer**
+  - CCNA: Configuring Static Routes in Packet Tracer
+
+
+## 📓 How I Work
+
+- Everything is logged. Because every fix is repeatable.
+- Every project is documented like a case study
+- Every config, script, and command is stored for future use.
+
+Call it a playbook. Call it prep. I call it **readiness**.
+
+
+
+## 📫 Let’s Talk If You...
+
+- Want someone who’s training like they’re on the job already
+- Need an IT pro who doesn’t just know commands — but knows **why** they matter
+- Prefer documentation over excuses
+- Want to work on a project together
+
+DM me on [LinkedIn](https://your-linkedin-url)  
+Or book time: [Calendly](https://your-calendly-link)
