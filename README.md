@@ -3,7 +3,8 @@
 First of all, I must state: this isn’t a portfolio.  
 This is where I test ideas, break things on purpose, and solve problems like they’re real - because they eventually will be.
 
-
+## ⭐ Featured Project:
+- Top 3 SOPs for Common IT Incidents
 
 ## 🔬 What This Is
 
