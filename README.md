@@ -9,9 +9,9 @@ This is where I test ideas, break things on purpose, and solve problems like the
 
 You’re looking at my lab. Not coursework. Not fake projects. Just real systems, simulated attacks, broken configs, and cold documentation.
 
-I love making live builds, ticket resolutions, network configs, and defense-focused workflows.
+I love making live builds, ticket resolutions, network configs, and defense focused workflows.
 
-The goal is to reflect real ops thinking — systems, security, automation, and speed.
+The goal is to reflect real ops thinking -> so systems + security + automation + speed.
 
 Everything here has a *why*, a *how*, and a *fix*.
 
