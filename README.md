@@ -42,14 +42,14 @@ Everything here has a *why*, a *how*, and a *fix*.
 
 ### ☠💻🔑🛡 Cybersecurity
 
+- **Security Operations and Incident Response / Cloud Cybersecurity Project**
+  - [Creating and securing a SOC/Honeynet in Azure with live attack traffic](https://github.com/yasir-ai/Honeynet-SOC)
+
 - **Assets, Risks, Audit, Mitigation Strategies and Impact Analysis**
   - Internal Security Audit - Botium Toys
     
 - **Vulnerability Management Program Implementation**
   - Start to finish Vulnerability Management Program creation using Tenable Vulnerability Management
-    
-- **Security Operations and Incident Response / Cloud Cybersecurity Project**
-  - Creating and securing a SOC/Honeynet in Azure with live attack traffic
  
 - **Algorithmic Automated UAM**
   - Simple Python Algorithm for User Access Management
