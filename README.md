@@ -5,6 +5,7 @@ This is where I test ideas, break things on purpose, and solve problems like the
 
 ## ⭐ Featured Project:
 - [Ultimate SOPs for The 3 Most Common IT Incidents](https://github.com/yasir-ai/SuperSOPs/tree/main#stakeholder-communication-templates)
+- [AutoDoc API: Edit DocX Files Using JSON](https://github.com/yasir-ai/AutoDoc-API)
 
 ## 🔬 What This Is
 
