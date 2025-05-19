@@ -29,7 +29,7 @@ Everything here has a *why*, a *how*, and a *fix*.
     - Basic DNS Configuration & Testing
       
 - **oSTicket + Help Desk Workflow:** Built real ticketing flow. Documented SLAs. Resolved 100+ test tickets. Simulated escalations and time-to-close.
-  - osTicket: Prerequisites and Installation
+  - [osTicket: Prerequisites and Installation](https://github.com/yasir-ai/osticket-install)
   - osTicket: Post-Installation Configuration
   - osTicket: Ticket Lifecycle & SLAs
     
